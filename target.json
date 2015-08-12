@@ -1,0 +1,22 @@
+{
+  "name": "nrf51dk-gcc",
+  "version": "0.0.1",
+  "inherits": {
+    "nordic-nrf51822-32k-gcc": "*"
+  },
+  "description": "Official mbed build target for the nRF51-DK 32KB platform.",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "keywords": [
+    "mbed-official",
+    "gcc"
+  ],
+  "similarTo": [
+    "nrf51dk"
+  ],
+  "config": {}
+}
