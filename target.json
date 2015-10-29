@@ -13,7 +13,7 @@
   ],
   "keywords": [
     "mbed-official",
-    "mbed-target:nrf51_dk"
+    "mbed-target:nrf51_dk",
     "gcc"
   ],
   "similarTo": [
