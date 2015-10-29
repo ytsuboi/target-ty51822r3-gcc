@@ -1,6 +1,6 @@
 {
   "name": "nrf51dk-gcc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "inherits": {
     "nordic-nrf51822-32k-gcc": "*"
   },
@@ -13,6 +13,7 @@
   ],
   "keywords": [
     "mbed-official",
+    "mbed-target:nrf51_dk",
     "gcc"
   ],
   "similarTo": [
