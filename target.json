@@ -1,6 +1,6 @@
 {
   "name": "nrf51dk-gcc",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "inherits": {
     "nordic-nrf51822-32k-gcc": "*"
   },
