@@ -5,6 +5,11 @@
     "nordic-nrf51822-32k-gcc": "*"
   },
   "description": "Official mbed build target for the nRF51-DK 32KB platform.",
+  "homepage": "https://github.com/ARMmbed/target-nrf51dk-gcc",
+  "repository": {
+    "url": "git@github.com:ARMmbed/target-nrf51dk-gcc.git",
+    "type": "git"
+  },
   "licenses": [
     {
       "url": "https://spdx.org/licenses/Apache-2.0",
