@@ -1,6 +1,6 @@
 {
   "name": "nrf51dk-gcc",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "inherits": {
     "nordic-nrf51822-gcc": "^0.0.1"
   },
@@ -26,7 +26,7 @@
   ],
   "config": {
     "nrf51822": {
-        "ram_size": "32K"
+      "ram_size": "32K"
     },
     "image": {
       "heap": {
