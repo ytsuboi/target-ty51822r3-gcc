@@ -1,8 +1,8 @@
 {
   "name": "nrf51dk-gcc",
-  "version": "0.0.8",
+  "version": "1.0.0",
   "inherits": {
-    "nordic-nrf51822-gcc": "^0.0.1"
+    "nordic-nrf51822-gcc": "^1.0.0"
   },
   "description": "Official mbed build target for the nRF51-DK 32KB platform.",
   "homepage": "https://github.com/ARMmbed/target-nrf51dk-gcc",
