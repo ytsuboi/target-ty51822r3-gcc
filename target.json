@@ -1,13 +1,13 @@
 {
-  "name": "nrf51dk-gcc",
+  "name": "ty51822r3-gcc",
   "version": "1.0.0",
   "inherits": {
     "nordic-nrf51822-gcc": "^1.0.0"
   },
-  "description": "Official mbed build target for the nRF51-DK 32KB platform.",
-  "homepage": "https://github.com/ARMmbed/target-nrf51dk-gcc",
+  "description": "Official mbed build target for the Switch Science mbed TY51822r3 32KB platform.",
+  "homepage": "",
   "repository": {
-    "url": "git@github.com:ARMmbed/target-nrf51dk-gcc.git",
+    "url": "git@github.com:ARMmbed/target-ty51822r3-gcc.git",
     "type": "git"
   },
   "licenses": [
@@ -18,12 +18,13 @@
   ],
   "keywords": [
     "mbed-official",
-    "mbed-target:nrf51_dk",
+    "mbed-target:ty51822r3",
     "gcc"
   ],
   "similarTo": [
     "nrf51dk"
   ],
+  "toolchain": "CMake/toolchain.cmake",
   "config": {
     "nrf51822": {
       "ram_size": "32K"

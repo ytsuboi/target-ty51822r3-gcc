@@ -1,2 +1,2 @@
-## yotta target description using GCC to compile for Nordic nRF51-DK 32KB platform.
+## yotta target description using GCC to compile for Switch Science mbed TY51822r3 32KB platform.
 
